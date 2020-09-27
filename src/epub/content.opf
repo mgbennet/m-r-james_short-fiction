@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Short Stories</dc:title>
-		<meta property="file-as" refines="#title">Short Stories</meta>
+		<dc:title id="title">Short Fiction</dc:title>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Horror tales, English</dc:subject>
 		<dc:subject id="subject-2">Short stories, English</dc:subject>
 		<dc:subject id="subject-3">Ghost stories, English</dc:subject>
