@@ -1,6 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-#canon-alerics-scrap-book blockquote:nth-of-type(3) {
+#canon-alerics-scrap-book blockquote:nth-of-type(3),
+#an-episode-of-cathedral-history blockquote:nth-of-type(1) {
     text-align: center;
 }
