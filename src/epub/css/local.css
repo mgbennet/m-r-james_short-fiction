@@ -27,8 +27,17 @@
 }
 
 #canon-alerics-scrap-book blockquote:nth-of-type(3),
-#an-episode-of-cathedral-history blockquote:nth-of-type(1) {
+#an-episode-of-cathedral-history blockquote:nth-of-type(1){
     text-align: center;
+}
+
+/* Martin's Close features numerous long excerpts from a court transcript which should not have margins */
+#martins-close blockquote{
+    margin-left: 0;
+    margin-right: 0;
+}
+#martins-close blockquote p:first-child{
+    text-indent: 1em;
 }
 
 p span.i1{
