@@ -40,6 +40,10 @@
     text-indent: 1em;
 }
 
+#the-mezzotint [epub|type~="z3998:valediction"]{
+	padding-right: 1rem;
+}
+
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
