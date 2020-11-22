@@ -1,8 +1,12 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:letter"] header,
-[epub|type~="z3998:letter"] footer{
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
@@ -14,16 +18,16 @@
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:valediction"]{
+	padding-right: 1rem;
+}
+
 #casting-the-runes .signature{
     font-style: italic;
 }
 
 #casting-the-runes [epub|type~="z3998:valediction"] span:nth-of-type(1){
-	padding-right: 3rem;
-}
-
-#casting-the-runes [epub|type~="z3998:valediction"] span:nth-of-type(2){
-	padding-right: 1rem;
+	padding-right: 2rem;
 }
 
 #canon-alerics-scrap-book blockquote:nth-of-type(3),
@@ -40,8 +44,12 @@
     text-indent: 1em;
 }
 
-#the-mezzotint [epub|type~="z3998:valediction"]{
-	padding-right: 1rem;
+#the-stalls-of-barchester-cathedral .signature{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:diary"] p:first-child{
+	text-indent: 1em;
 }
 
 p span.i1{
