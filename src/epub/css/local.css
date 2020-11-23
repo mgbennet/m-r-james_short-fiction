@@ -48,6 +48,11 @@ footer{
 	font-variant: small-caps;
 }
 
+#the-story-of-a-disappearance-and-an-appearance [epub|type~="se:letter.dateline"] span{
+	font-variant: small-caps;
+	font-style: normal;
+}
+
 [epub|type~="z3998:diary"] p:first-child{
 	text-indent: 1em;
 }
