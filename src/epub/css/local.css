@@ -10,6 +10,27 @@ footer{
 	text-align: right;
 }
 
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure + p{
+	text-indent: 0;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
 [epub|type~="se:letter.dateline"]{
     font-style: italic;
 }
@@ -46,6 +67,13 @@ footer{
 }
 #martins-close blockquote p:first-child{
     text-indent: 1em;
+}
+
+#illustration-1 img {
+	width: 45%;
+}
+#illustration-2 img {
+	width: 95%;
 }
 
 .cyphertext p,
