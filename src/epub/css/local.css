@@ -65,7 +65,8 @@ figcaption{
     margin-left: 0;
     margin-right: 0;
 }
-#martins-close blockquote p:first-child{
+#martins-close blockquote p:first-child,
+#count-magnus blockquote p:first-child{
     text-indent: 1em;
 }
 
