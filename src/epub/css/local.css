@@ -25,12 +25,6 @@ figure + p{
 	text-indent: 0;
 }
 
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
-
 [epub|type~="se:letter.dateline"]{
     font-style: italic;
 }
