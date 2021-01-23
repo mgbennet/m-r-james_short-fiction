@@ -59,6 +59,12 @@ figure + p{
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:lyrics"] p,
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
 #casting-the-runes [epub|type~="z3998:signature"]{
 	font-style: italic;
 }
@@ -96,6 +102,7 @@ figure + p{
 
 .cyphertext td:first-child{
 	width: 5em;
+	font-style: italic;
 }
 
 #the-stalls-of-barchester-cathedral [epub|type~="z3998:signature"]{
