@@ -57,13 +57,19 @@
 		<dc:source>https://www.gutenberg.org/ebooks/20387</dc:source>
 		<dc:source>https://archive.org/details/athinghostandot00jamegoog</dc:source>
 		<!-- A Warning to the Curious stories -->
-		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100301</dc:source><!-- The Haunted Dolls' House -->
-		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100302</dc:source><!-- The Uncommon Prayer-Book -->
-		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100508</dc:source><!-- A Neighbour's Landmark -->
-		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100509</dc:source><!-- A View from a Hill -->
-		<dc:source>https://www.fadedpage.com/showbook.php?pid=20130330</dc:source><!-- A Warning to the Curious -->
-		<dc:source>https://www.fadedpage.com/showbook.php?pid=20130331</dc:source><!-- An Evening's Entertainment -->
 		<dc:source>https://www.google.com/books/edition/A_Warning_to_the_Curious_and_Other_Ghost/Vj4PAAAAQAAJ</dc:source>
+		<!-- The Haunted Dolls' House -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100301</dc:source>
+		<!-- The Uncommon Prayer-Book -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100302</dc:source>
+		<!-- A Neighbour's Landmark -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100508</dc:source>
+		<!-- A View from a Hill -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20100509</dc:source>
+		<!-- A Warning to the Curious -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20130330</dc:source>
+		<!-- An Evening's Entertainment -->
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20130331</dc:source>
 		<meta property="se:production-notes">Certain sections have retained their archaic spellings, as they are stylistic decisions, like quoting older manuscripts. SVG illustrations have been used for the text engraved with fancy font on the whistle in "Oh, Whistle, and I’ll Come to You, My Lad." The transcriptions for the stories from "A Warning to the Curious and Other Ghost Stories" were taken from Faded Page and were based on scans from "The Collected Ghost Stories of M. R. James." I have compared these transcriptions to the OCR of the scans of "A Warning" and matched the older publication in order to remain within the U.S. public domain.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
