@@ -63,8 +63,9 @@ figure + p{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:lyrics"] p,
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
