@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="a-neighbours-landmark.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>This is part of a quote wrapped in parenthesis that interrupts another quote.</reason>
-		</ignore>
-        <ignore>
-			<code>t-036</code>
-			<reason>This is part of a quote wrapped in parenthesis that interrupts another quote.</reason>
-		</ignore>
-	</file>
 	<file path="a-school-story.xhtml">
 		<ignore>
 			<code>t-007</code>
@@ -28,7 +18,7 @@
 			<reason>This is a multi-line valediction in which each line is offset slightly differently. Using spans is the best way to do this.</reason>
 		</ignore>
 	</file>
-    <file path="the-treasure-of-abbot-thomas.xhtml">
+	<file path="the-treasure-of-abbot-thomas.xhtml">
 		<ignore>
 			<code>s-046</code>
 			<reason>This is a multi-line valediction in which each line is offset slightly differently. Using spans is the best way to do this.</reason>
