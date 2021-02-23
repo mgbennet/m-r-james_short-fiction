@@ -107,6 +107,10 @@ figure + p{
 }
 
 .cyphertext td:first-child{
+	word-break: normal;
+}
+
+.cyphertext td:first-child{
 	width: 5em;
 	font-style: italic;
 }
