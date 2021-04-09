@@ -6,6 +6,12 @@
 			<reason>The apostrophe is part of the name of the magazine.</reason>
 		</ignore>
 	</file>
+	<file path="a-neighbours-landmark.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Lowercase letter indicates transition in narrative form.</reason>
+		</ignore>
+	</file>
 	<file path="canon-alerics-scrapbook.xhtml">
 		<ignore>
 			<code>t-007</code>
