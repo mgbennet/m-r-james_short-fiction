@@ -120,14 +120,14 @@ p span.i2{
 	width: 95%;
 }
 
-.cyphertext p,
-.cyphertext td{
+.ciphertext p,
+.ciphertext td{
 	text-indent: 0;
 	vertical-align: top;
 	word-break: break-all;
 }
 
-.cyphertext td:first-child{
+.ciphertext td:first-child{
 	font-style: italic;
 	width: 5em;
 	word-break: normal;
