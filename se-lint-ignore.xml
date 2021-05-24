@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="a-school-story.xhtml">
+	<file path="canon-alerics-scrapbook.xhtml">
 		<ignore>
 			<code>t-007</code>
-			<reason>The apostrophe is part of the name of the magazine.</reason>
+			<reason>The apostrophe is part of the name of the book.</reason>
 		</ignore>
 	</file>
 	<file path="a-neighbours-landmark.xhtml">
 		<ignore>
 			<code>t-057</code>
 			<reason>Lowercase letter indicates transition in narrative form.</reason>
-		</ignore>
-	</file>
-	<file path="canon-alerics-scrapbook.xhtml">
-		<ignore>
-			<code>t-007</code>
-			<reason>The apostrophe is part of the name of the book.</reason>
 		</ignore>
 	</file>
 	<file path="casting-the-runes.xhtml">
