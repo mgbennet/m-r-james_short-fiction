@@ -11,6 +11,10 @@
 			<code>t-057</code>
 			<reason>Lowercase letter indicates transition in narrative form.</reason>
 		</ignore>
+		<ignore>
+			<code>t-064</code>
+			<reason>Matched text is the continuation of a title after an interjection.</reason>
+		</ignore>
 	</file>
 	<file path="casting-the-runes.xhtml">
 		<ignore>
