@@ -72,7 +72,7 @@
 		<!-- An Evening's Entertainment -->
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20130331</dc:source>
 		<meta property="se:production-notes">Certain sections have retained their archaic spellings, as they are stylistic decisions, like quoting older manuscripts. The transcriptions for the stories from "A Warning to the Curious and Other Ghost Stories" were taken from Faded Page and were based on scans from "The Collected Ghost Stories of M. R. James." I have compared these transcriptions to the OCR of the scans of "A Warning to the Curious and Other Ghost Stories" and matched the older publication in order to remain within the U.S. public domain.</meta>
-		<meta property="se:word-count">162887</meta>
+		<meta property="se:word-count">162889</meta>
 		<meta property="se:reading-ease.flesch">76.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/M._R._James</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-r-james_short-fiction</meta>
